@@ -35,5 +35,5 @@ function shuffle(array) {
         console.log(list);
         console.log("\nAs it should be:")
         console.log(doneList)
-    } 
-}  
+    }
+}
